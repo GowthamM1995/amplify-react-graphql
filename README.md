@@ -1,4 +1,9 @@
 # Getting Started with Create React App
+ 
+# Get into the React Application.
+
+https://main.dxrgv4s07e83l.amplifyapp.com/
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
